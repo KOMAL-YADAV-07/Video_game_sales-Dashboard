@@ -6,22 +6,22 @@ This interactive Tableau dashboard analyzes global video game sales across genre
 The dashboard is designed for exploratory analysis using filters and time selection to understand how the gaming industry evolved.
 
 ## Features
-•	Total Sales by Genre
+- Total Sales by Genre
 Compare performance of different game genres.
-•	Sales by Year and Genre
+- Sales by Year and Genre
 Visualize industry growth trends and peak periods.
-•	Top 10 Games by Sales
+- Top 10 Games by Sales
 Identify best-selling video games.
-•	Top 10 Platforms by Sales
+- Top 10 Platforms by Sales
 Compare platform market performance.
-•	Top Publishers by Sales
+- Top Publishers by Sales
 Discover leading game publishers.
-•	Interactive Filters
-o	Genre selection
-o	Start year
-o	End year
-•	Key Metrics
-o	Total Genres
-o	Total Publishers
-o	Total Platforms
-o	Total Game Titles
+-	Interactive Filters<br>
+	Genre selection<Br>
+  Start year<br>
+  End year<br>
+- Key Metrics
+    Total Genres<br>
+    Total Publishers<br>
+    Total Platforms<br>
+    Total Game Titles<br>
