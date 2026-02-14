@@ -1,5 +1,5 @@
-Video Game Sales Dashboard (Tableau)
-📊 Project Overview
+#Video Game Sales Dashboard (Tableau)
+##📊 Project Overview
 
 This interactive Tableau dashboard analyzes global video game sales across genres, platforms, publishers, and years. It helps identify market trends, top-performing categories, and sales distribution patterns over time.
 
