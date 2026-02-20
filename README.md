@@ -59,9 +59,6 @@ This project was created to practice:
 - Interactive filtering
 - Visual analytics design
 
-## 👩‍🦱 Author
-Komal<BR>
-Data Analytics Learner | Aspiring Data Scientist
 
 
 
